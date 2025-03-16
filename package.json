@@ -1,0 +1,11 @@
+{
+  "name": "javascript-api-rest",
+  "version": "1.0.0",
+  "main": "exercies-basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "victor-oviedo",
+  "license": "MIT",
+  "description": ""
+}
